@@ -1,2 +1,7 @@
 input/
 panels/
+
+*.jpg
+*.webp
+*.png
+*.jpeg
